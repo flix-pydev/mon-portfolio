@@ -1,6 +1,6 @@
 # 🚀 Mon Portfolio de Développeur Web Junior
 
-Bienvenue sur mon profil ! Je m'appelle **[Felix]**, j'ai **14 ans** et je suis un passionné de programmation basé à **Lomé, Togo** 🇹🇬. 
+Bienvenue sur mon profil ! Je m'appelle **Felix**, j'ai **14 ans** et je suis un passionné de programmation basé à **Lomé, Togo** 🇹🇬. 
 
 Je développe des sites web vitrines légers, modernes et entièrement optimisés pour les téléphones portables directement depuis mon smartphone Android.
 
