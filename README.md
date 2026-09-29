@@ -9,7 +9,6 @@ Je développe des sites web vitrines légers, modernes et entièrement optimisé
 ## 📂 Mes Modèles de Sites Prêts à l'Emploi
 Voici les démonstrations de projets conçus pour propulser les commerces et services au Togo. Cliquez sur les liens pour voir l'aperçu en ligne :
 
-*   🍔 [Site Vitrine pour Restaurant / Maquis](https://flix-pydev.github.io/mon-portfolio/restaurant.html)
 *   👗 [Boutique de Mode & Prêt-à-porter](https://flix-pydev.github.io/mon-portfolio/boutique.html)
 *   🎒 [Portail pour École & Centre de Soutien](https://flix-pydev.github.io/mon-portfolio/ecole.html)
 *   ✨ [Salon de Coiffure & Beauté](https://flix-pydev.github.io/mon-portfolio/coiffure.html)
